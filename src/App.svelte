@@ -1,5 +1,4 @@
 <script lang="ts">
-  import logo from './assets/svelte.png'
   import Button from './lib/Button.svelte'
 </script>
 
