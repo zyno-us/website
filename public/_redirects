@@ -1,1 +1,2 @@
 /.well-known/matrix/* https://matrix.zyno.us/.well-known/matrix/:splat 200!
+/.well-known/webfinger/* https://social.zyno.us/.well-known/webfinger/:splat 200!
